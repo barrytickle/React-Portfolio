@@ -1,0 +1,48 @@
+/* --- Colours --- */
+
+$blue: #377dff;
+// $green: #5DDBCF;
+$lightBlue: #ecf2ff;
+// $tertiaryColor: #BADA55;
+
+$white: #fff;
+$black: #555;
+$grey: #77838f;
+$lightGrey: lighten($grey, 5%);
+
+$purple: #8251bc;
+$lightPurple: #f8f1ff;
+
+/* --- Colours --- */
+
+/* --------------------------------*/
+
+/* --- Fonts --- */
+$primaryFont: "Gilroy", sans-serif;
+/* --- Fonts --- */
+
+/* Font Weight */
+
+$medium: 400;
+$demi: 600;
+$bold: 700;
+
+$bigShadow: 0px 20px 40px rgba($black, 0.16);
+$smallShadow: 0px 3px 6px rgba($black, 0.16);
+
+/* Font Weight */
+
+/* --------------------------------*/
+
+/* --- Media Querys --- */
+
+$largeMobile: "(min-width: 425px)";
+$small-tablet: "(min-width: 600px)";
+$tablet: "(min-width: 768px)";
+$laptop: "(min-width: 1024px)";
+$desktop: "(min-width: 1420px)";
+$largeDesktop: "(min-width: 1920px)";
+
+// example: @media #{$small-tablet} { }
+
+/* --- Media Querys --- */
